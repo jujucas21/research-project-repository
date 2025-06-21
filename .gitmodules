@@ -1,0 +1,3 @@
+[submodule "loss-of-plasticity-codebase"]
+	path = loss-of-plasticity-codebase
+	url = https://github.com/jujucas21/research-project-repository.git
